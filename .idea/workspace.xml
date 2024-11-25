@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79a22694-6b8d-42ce-9d0f-6271211c9c1e" name="Changes" comment="loops assignment">
-      <change afterPath="$PROJECT_DIR$/src/SubstringsSortedByLength.java" afterDir="false" />
-    </list>
+    <list default="true" id="79a22694-6b8d-42ce-9d0f-6271211c9c1e" name="Changes" comment="loops assignment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="E6.9" />
+        <entry key="$PROJECT_DIR$" value="E6.11" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,7 +42,7 @@
     "Application.SumEvenNumbers.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "E6.10",
+    "git-widget-placeholder": "E6.12",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "E:/Solution JAVA/Loops/src/Main.java"
   }
@@ -138,7 +136,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732507719947</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="loops assignment">
+      <option name="closed" value="true" />
+      <created>1732507961116</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1732507961116</updated>
+    </task>
+    <task id="LOCAL-00012" summary="loops assignment">
+      <option name="closed" value="true" />
+      <created>1732508141554</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1732508141554</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
