@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79a22694-6b8d-42ce-9d0f-6271211c9c1e" name="Changes" comment="loops assignment">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TelescopeEffect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TelescopeEffect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DiamondPattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,14 +22,14 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="E6.15" />
+        <entry key="$PROJECT_DIR$" value="E6.15(runner-class)" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2pK5mb7Ryb1NxiEFSwkcSABfIhb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,7 +46,7 @@
     "Application.TelescopeEffect.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "E6.16",
+    "git-widget-placeholder": "E6.17",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "E:/Solution JAVA/Loops/src/Main.java"
   }
@@ -189,7 +188,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732555761199</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="loops assignment">
+      <option name="closed" value="true" />
+      <created>1732588270731</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1732588270731</updated>
+    </task>
+    <task id="LOCAL-00018" summary="loops assignment">
+      <option name="closed" value="true" />
+      <created>1732588393436</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1732588393436</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
