@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79a22694-6b8d-42ce-9d0f-6271211c9c1e" name="Changes" comment="loops assignment" />
+    <list default="true" id="79a22694-6b8d-42ce-9d0f-6271211c9c1e" name="Changes" comment="loops assignment">
+      <change afterPath="$PROJECT_DIR$/src/MontyHallParadox.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="E6.18" />
+        <entry key="$PROJECT_DIR$" value="E6.21" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,7 +46,7 @@
     "Application.TelescopeEffect.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "E6.20",
+    "git-widget-placeholder": "E6.22",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "E:/Solution JAVA/Loops/src/Main.java"
   }
@@ -218,7 +220,31 @@
       <option name="project" value="LOCAL" />
       <updated>1732588691647</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="loops assignment">
+      <option name="closed" value="true" />
+      <created>1732588894168</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1732588894168</updated>
+    </task>
+    <task id="LOCAL-00022" summary="loops assignment">
+      <option name="closed" value="true" />
+      <created>1732589009178</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1732589009178</updated>
+    </task>
+    <task id="LOCAL-00023" summary="loops assignment">
+      <option name="closed" value="true" />
+      <created>1732589079370</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1732589079370</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
